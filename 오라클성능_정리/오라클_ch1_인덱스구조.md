@@ -110,7 +110,7 @@ where A || B in ('1100') -> 튜닝 : ('1', '100')
 
 **튜닝 사례2**
 
-![튜닝사례2](C:\Users\user\Desktop\튜닝사례2.jpg)
+![1주차_튜닝사례2](https://user-images.githubusercontent.com/40616436/68543826-743e3880-03ff-11ea-9942-44c673f4a3fe.jpg)
 
 ### 묵시적 형변환
 
